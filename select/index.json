@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "vendetta! (sped up)",
+  "base_artist": "MUPP、Sadfriendd",
+  "createdAt": "2026-03-26T15:27:56.384118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "vendetta! - sped up",
+      "artist": "MUPP feat. Sadfriendd",
+      "has_synced": false,
+      "path": "select/01_vendetta!_-_sped_up_MUPP_feat._Sadfriendd.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "vendetta! - sped up",
+      "artist": "MUPP",
+      "has_synced": true,
+      "path": "select/02_vendetta!_-_sped_up_MUPP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "vendetta! (sped up)",
+      "artist": "MUPP & Sadfriendd",
+      "has_synced": true,
+      "path": "select/03_vendetta!_(sped_up)_MUPP_&_Sadfriendd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "vendetta! (sped up)",
+      "artist": "Sadfriendd & MUPP",
+      "has_synced": true,
+      "path": "select/04_vendetta!_(sped_up)_Sadfriendd_&_MUPP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "vendetta! (sped up)",
+      "artist": "MUPP • Sadfriendd",
+      "has_synced": true,
+      "path": "select/05_vendetta!_(sped_up)_MUPP_•_Sadfriendd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "vendetta! (sped up)",
+      "artist": "MUPP",
+      "has_synced": true,
+      "path": "select/06_vendetta!_(sped_up)_MUPP.lrc"
+    }
+  ]
+}
